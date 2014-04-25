@@ -1,5 +1,7 @@
 # YXNotification
 
+![image](http://images.cnitblog.com/i/607542/201403/141558148063393.gif)
+
 This class is used for sharing messages between controllers. You can send message from one controller to other controllers ,no matter if they are exist or not.
 
  * Easy to use
